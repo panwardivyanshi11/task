@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://github.com/panwardivyanshi11",
+            "request": "launch",
+            "url": "https://github.com/panwardivyanshi11"
+        }
+    ]
+}
